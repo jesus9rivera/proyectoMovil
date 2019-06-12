@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AgendaWS_v1.0</string>
+    <string name="nuevo">Nuevo</string>
+    <string name="nombre">Nombre</string>
+    <string name="tel1">Teléfono 1</string>
+    <string name="tel2">Teléfono 2</string>
+    <string name="direccion">Dirección</string>
+    <string name="notas">Notas</string>
+    <string name="favorito">Favorito</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_listar">Listar</string>
+    <string name="mensaje">Contacto Guardado</string>
+    <string name="mensajeedit">Cambios guardados</string>
+    <string name="mensajeeditnomod">Guardado sin cambios</string>
+
+</resources>
